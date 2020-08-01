@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: Elasticsearch Percolator service
+elastic:
+  cluster_name: elasticsearch
+  host_url: localhost
+  host_port: 9300
+
+
+
+
+
